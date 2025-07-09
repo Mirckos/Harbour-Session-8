@@ -1,0 +1,18 @@
+# UI
+gradio>=3.30.0
+streamlit>=1.24.0
+
+# Data
+numpy>=1.23.0
+pandas>=1.5.0
+torch>=2.0.0
+datasets>=2.13.0
+
+# Hugging Face
+transformers>=4.31.0
+huggingface_hub>=0.14.0
+
+# Additional
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+python-dotenv>=1.0.0
